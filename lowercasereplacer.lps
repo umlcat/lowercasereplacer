@@ -1,0 +1,332 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="24">
+      <Unit0>
+        <Filename Value="lowercasereplacer.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="lowercasereplacer"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="4"/>
+        <CursorPos X="10" Y="10"/>
+        <UsageCount Value="24"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="forms\ufrmMain.lfm"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="24"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="forms\ufrmAbout.lfm"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="24"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ufrmMain"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="162"/>
+        <CursorPos X="14" Y="170"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="forms\ufrmAbout.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmAbout"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ufrmAbout"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="24"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="resources\language.inc"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="24"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="resources\ResStrs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ResStrs"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="121"/>
+        <CursorPos X="53" Y="126"/>
+        <UsageCount Value="24"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="24"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\..\packages\umlclib\laz60\sources\sdvstrings.pas"/>
+        <UnitName Value="sdvstrings"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="139"/>
+        <CursorPos X="21" Y="145"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\packages\umlclib\laz60\sources\sdvpaths.pas"/>
+        <UnitName Value="sdvpaths"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="52"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\packages\umlclib\laz60\sources\sdvfilesbyname.pas"/>
+        <UnitName Value="sdvfilesbyname"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="108"/>
+        <CursorPos X="1" Y="117"/>
+        <UsageCount Value="12"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\..\packages\umlclib\laz60\sources\sdvossys.pas"/>
+        <UnitName Value="sdvossys"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="447"/>
+        <CursorPos X="18" Y="452"/>
+        <UsageCount Value="12"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\objpas\sysutils\filutilh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="93"/>
+        <CursorPos X="12" Y="102"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\win\sysutils.pp"/>
+        <UnitName Value="sysutils"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="468"/>
+        <CursorPos X="3" Y="470"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\win32\system.pp"/>
+        <UnitName Value="System"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="33"/>
+        <CursorPos X="7" Y="37"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\inc\system.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="340"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="274"/>
+        <CursorPos X="10" Y="274"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\win\sysosh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="13"/>
+        <CursorPos X="3" Y="22"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\objpas\sysutils\finah.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="20"/>
+        <CursorPos X="18" Y="23"/>
+        <UsageCount Value="10"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\objpas\sysutils\sysansi.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="30"/>
+        <CursorPos X="3" Y="33"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\win\wininc\redef.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="12"/>
+        <CursorPos X="17" Y="21"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\win\wininc\struct.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="5065"/>
+        <CursorPos X="15" Y="5072"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\win\wininc\base.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="90"/>
+        <CursorPos X="20" Y="99"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\objpas\sysutils\fina.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="59"/>
+        <CursorPos X="45" Y="61"/>
+        <UsageCount Value="10"/>
+      </Unit23>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="221" Column="20" TopLine="216"/>
+      </Position1>
+      <Position2>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="14" Column="9" TopLine="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="219" Column="17" TopLine="214"/>
+      </Position3>
+      <Position4>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="190" Column="29" TopLine="188"/>
+      </Position4>
+      <Position5>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="193" Column="1" TopLine="188"/>
+      </Position5>
+      <Position6>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="195" Column="1" TopLine="188"/>
+      </Position6>
+      <Position7>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="200" Column="1" TopLine="188"/>
+      </Position7>
+      <Position8>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="205" Column="1" TopLine="190"/>
+      </Position8>
+      <Position9>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="208" Column="1" TopLine="205"/>
+      </Position9>
+      <Position10>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="218" Column="1" TopLine="205"/>
+      </Position10>
+      <Position11>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="219" Column="1" TopLine="205"/>
+      </Position11>
+      <Position12>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="217" Column="25" TopLine="215"/>
+      </Position12>
+      <Position13>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="222" Column="1" TopLine="215"/>
+      </Position13>
+      <Position14>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="224" Column="1" TopLine="215"/>
+      </Position14>
+      <Position15>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="225" Column="1" TopLine="215"/>
+      </Position15>
+      <Position16>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="207" Column="39" TopLine="203"/>
+      </Position16>
+      <Position17>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="14" Column="1" TopLine="7"/>
+      </Position17>
+      <Position18>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="12" Column="25" TopLine="7"/>
+      </Position18>
+      <Position19>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="161" Column="34" TopLine="154"/>
+      </Position19>
+      <Position20>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="90" Column="18" TopLine="81"/>
+      </Position20>
+      <Position21>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position21>
+      <Position22>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="96" Column="40" TopLine="90"/>
+      </Position22>
+      <Position23>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position23>
+      <Position24>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="104" Column="5" TopLine="96"/>
+      </Position24>
+      <Position25>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="165" Column="40" TopLine="156"/>
+      </Position25>
+      <Position26>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="201" Column="31" TopLine="192"/>
+      </Position26>
+      <Position27>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position27>
+      <Position28>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="201" Column="31" TopLine="153"/>
+      </Position28>
+      <Position29>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="206" Column="14" TopLine="197"/>
+      </Position29>
+      <Position30>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="222" Column="14" TopLine="213"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
